@@ -1,0 +1,24 @@
+#list-word-container {
+    background-color: white;
+    border: solid;
+    margin-right: 300px;
+    text-align: start;
+    word-wrap: break-word;
+    padding-left: 20px
+}
+
+#string-selected {
+    color: blue;
+    font-weight: bold;
+    
+}
+
+#add-text{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#delete-text {
+    margin-top: 10px;
+}

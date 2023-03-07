@@ -1,0 +1,14 @@
+#champion-results{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+#image-champion{
+    width: 400px;
+    height: 250px;
+}
